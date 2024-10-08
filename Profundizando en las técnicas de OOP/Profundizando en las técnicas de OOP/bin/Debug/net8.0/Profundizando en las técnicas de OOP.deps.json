@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Profundizando en las técnicas de OOP/1.0.0": {
+        "runtime": {
+          "Profundizando en las técnicas de OOP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Profundizando en las técnicas de OOP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

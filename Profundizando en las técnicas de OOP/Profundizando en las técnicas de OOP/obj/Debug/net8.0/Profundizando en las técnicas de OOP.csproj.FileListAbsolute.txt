@@ -1,0 +1,15 @@
+C:\Users\damap\RiderProjects\Profundizando en las técnicas de OOP\Profundizando en las técnicas de OOP\bin\Debug\net8.0\Profundizando en las técnicas de OOP.exe
+C:\Users\damap\RiderProjects\Profundizando en las técnicas de OOP\Profundizando en las técnicas de OOP\bin\Debug\net8.0\Profundizando en las técnicas de OOP.deps.json
+C:\Users\damap\RiderProjects\Profundizando en las técnicas de OOP\Profundizando en las técnicas de OOP\bin\Debug\net8.0\Profundizando en las técnicas de OOP.runtimeconfig.json
+C:\Users\damap\RiderProjects\Profundizando en las técnicas de OOP\Profundizando en las técnicas de OOP\bin\Debug\net8.0\Profundizando en las técnicas de OOP.dll
+C:\Users\damap\RiderProjects\Profundizando en las técnicas de OOP\Profundizando en las técnicas de OOP\bin\Debug\net8.0\Profundizando en las técnicas de OOP.pdb
+C:\Users\damap\RiderProjects\Profundizando en las técnicas de OOP\Profundizando en las técnicas de OOP\obj\Debug\net8.0\Profundizando en las técnicas de OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damap\RiderProjects\Profundizando en las técnicas de OOP\Profundizando en las técnicas de OOP\obj\Debug\net8.0\Profundizando en las técnicas de OOP.AssemblyInfoInputs.cache
+C:\Users\damap\RiderProjects\Profundizando en las técnicas de OOP\Profundizando en las técnicas de OOP\obj\Debug\net8.0\Profundizando en las técnicas de OOP.AssemblyInfo.cs
+C:\Users\damap\RiderProjects\Profundizando en las técnicas de OOP\Profundizando en las técnicas de OOP\obj\Debug\net8.0\Profundizando en las técnicas de OOP.csproj.CoreCompileInputs.cache
+C:\Users\damap\RiderProjects\Profundizando en las técnicas de OOP\Profundizando en las técnicas de OOP\obj\Debug\net8.0\Profundizando en las técnicas de OOP.sourcelink.json
+C:\Users\damap\RiderProjects\Profundizando en las técnicas de OOP\Profundizando en las técnicas de OOP\obj\Debug\net8.0\Profundizando en las técnicas de OOP.dll
+C:\Users\damap\RiderProjects\Profundizando en las técnicas de OOP\Profundizando en las técnicas de OOP\obj\Debug\net8.0\refint\Profundizando en las técnicas de OOP.dll
+C:\Users\damap\RiderProjects\Profundizando en las técnicas de OOP\Profundizando en las técnicas de OOP\obj\Debug\net8.0\Profundizando en las técnicas de OOP.pdb
+C:\Users\damap\RiderProjects\Profundizando en las técnicas de OOP\Profundizando en las técnicas de OOP\obj\Debug\net8.0\Profundizando en las técnicas de OOP.genruntimeconfig.cache
+C:\Users\damap\RiderProjects\Profundizando en las técnicas de OOP\Profundizando en las técnicas de OOP\obj\Debug\net8.0\ref\Profundizando en las técnicas de OOP.dll
